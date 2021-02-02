@@ -1,21 +1,21 @@
 # iOS DeviceSupport（简体中文）
-iOS真机调试支持文件 (iOS9 - iOS14)
+iOS真机调试支持文件 (iOS9 - iOS14), 为了解决这个问题：[Your Xcode version may be too old for your iOS version]。
 
 ## 最近5次更新 </br>
 
+**iOS 14.5-beta1** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5-beta1.zip) </br>
 **iOS 14.4** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.4.zip) </br>
 **iOS 14.3** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.3.zip) </br>
 **iOS 14.2** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.2.zip) </br>
 **iOS 14.1** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.1.zip) </br>
-**iOS 14.0** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.0.zip) </br>
 </br>
 </br>
 
 ## 使用方法
 
-**1、如何在Xcode 12.2+联调iOS 14.4的设备？**</br> 
+**1、如何在Xcode 12.2+联调iOS 14.5的设备？**</br> 
 
-**[2、下载iOS 14.4的支持文件](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.4.zip)** </br>
+**[2、下载iOS 14.5的支持文件](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5-beta1.zip)** </br>
 
 **3、解压缩**</br>
 
