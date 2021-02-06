@@ -1,9 +1,10 @@
 # iOS DeviceSupport（EN）
 iOS DeviceSupport File On Debugging(iOS9 - iOS14), In order to solve：[Your Xcode version may be too old for your iOS version]. 
+Supported 2021.02.05（GMT+8）14.5 Public Beta。
 
 ## Lastest 5 updates </br>
 
-**iOS 14.5-beta1** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5-beta1.zip) </br>
+**iOS 14.5** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5-beta1.zip) </br>
 **iOS 14.4** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.4.zip) </br>
 **iOS 14.3** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.3.zip) </br>
 **iOS 14.2** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.2.zip) </br>
@@ -21,7 +22,7 @@ iOS DeviceSupport File On Debugging(iOS9 - iOS14), In order to solve：[Your Xco
 
 **4、Close Xcode**</br>
 
-**5、Put the unzip file into this folder:**</br>
+**5、Put the unzip file into this folder:（Please rename folder name）**</br>
 ***shortcut in Finder：cmd+shift+G***</br>
 ```/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/```</br>
 
