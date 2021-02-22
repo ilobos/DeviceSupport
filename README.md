@@ -1,10 +1,10 @@
 # iOS DeviceSupport（简体中文）
 iOS真机调试支持文件 (iOS9 - iOS14), 为了解决这个问题：[Your Xcode version may be too old for your iOS version]。
-支持 2021.02.05（GMT+8）的 14.5 Public Beta。
+支持 2021.02.17（GMT+8）的 14.5 Public Beta 2。
 
 ## 最近5次更新 </br>
 
-**iOS 14.5** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5-beta1.zip) </br>
+**iOS 14.5** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5.zip) </br>
 **iOS 14.4** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.4.zip) </br>
 **iOS 14.3** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.3.zip) </br>
 **iOS 14.2** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.2.zip) </br>
@@ -16,7 +16,7 @@ iOS真机调试支持文件 (iOS9 - iOS14), 为了解决这个问题：[Your Xco
 
 **1、如何在Xcode 12.2+联调iOS 14.5的设备？**</br> 
 
-**[2、下载iOS 14.5的支持文件](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5-beta1.zip)** </br>
+**[2、下载iOS 14.5的支持文件](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5.zip)** </br>
 
 **3、解压缩**</br>
 
