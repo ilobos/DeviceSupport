@@ -1,6 +1,6 @@
 # iOS DeviceSupport（EN）
 iOS DeviceSupport File On Debugging(iOS9 - iOS14), In order to solve：[Your Xcode version may be too old for your iOS version]. 
-Supported 2021.05.11（GMT+8）14.6 Develper Beta 3。
+Supported 2021.05.11（GMT+8）14.6 Develper Beta 3, Supported 2021.05.20（GMT+8）14.7(18G5023c) (iOS14.7 can directly download 14.6).
 
 ## Lastest 5 updates </br>
 
@@ -14,7 +14,7 @@ Supported 2021.05.11（GMT+8）14.6 Develper Beta 3。
 
 ## Usage
 
-**1、How to use Xcode 12.2+ debug on iPhone with iOS 14.6？**</br> 
+**1、How to use Xcode 12.2+ debug on iPhone with iOS 14.6 / 14.7？**</br> 
 
 **[2、Download support file: iOS 14.6](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.6.zip)** </br>
 
@@ -24,6 +24,7 @@ Supported 2021.05.11（GMT+8）14.6 Develper Beta 3。
 
 **5、Put the unzip file into this folder:（Please rename folder name）**</br>
 ***shortcut in Finder：cmd+shift+G***</br>
+***shortcut in item：open + the path as follow***</br>
 ```/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/```</br>
 
 **6、Restart Xcode**</br>
