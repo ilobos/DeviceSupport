@@ -1,22 +1,22 @@
 # iOS DeviceSupport（EN）
-iOS DeviceSupport File On Debugging(iOS9 - iOS14), In order to solve：[Your Xcode version may be too old for your iOS version]. 
-Supported 2021.05.11（GMT+8）14.6 Develper Beta 3, Supported 2021.05.20（GMT+8）14.7(18G5023c) (iOS14.7 can directly download 14.6).
+iOS DeviceSupport File On Debugging(iOS9 - iOS15), In order to solve：[Your Xcode version may be too old for your iOS version]. 
+Supported 2021.6.8（GMT+8）15.0 Develper Beta 1.
 
 ## Lastest 5 updates </br>
 
+**iOS 15.0** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.0.zip) </br>
 **iOS 14.6** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.6.zip) </br>
 **iOS 14.5** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5.zip) </br>
 **iOS 14.4** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.4.zip) </br>
 **iOS 14.3** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.3.zip) </br>
-**iOS 14.2** - [Download](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.2.zip) </br>
 </br>
 </br>
 
 ## Usage
 
-**1、How to use Xcode 12.2+ debug on iPhone with iOS 14.6 / 14.7？**</br> 
+**1、How to use Xcode(-beta) 13+ debug on iPhone with iOS 15.0？**</br> 
 
-**[2、Download support file: iOS 14.6](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.6.zip)** </br>
+**[2、Download support file: iOS 15.0](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.0.zip)** </br>
 
 **3、Unzip**</br>
 
