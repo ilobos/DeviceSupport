@@ -1,23 +1,23 @@
 # iOS DeviceSupport（简体中文）
 iOS真机调试支持文件 (iOS9 - iOS15), 为了解决这个问题：[Your Xcode version may be too old for your iOS version]。
-支持 2021.11.11（GMT+8）15.2 Public Beta 2。
+支持 2022.01.28（GMT+8）15.4 Developer Beta。
 
 ## 最近5次更新 </br>
 
+**iOS 15.4** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.4.zip) </br>
 **iOS 15.2** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.2.zip) </br>
 **iOS 15.0** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.0.zip) </br>
 **iOS 14.6** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.6.zip) </br>
 **iOS 14.5** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.5.zip) </br>
-**iOS 14.4** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-14/14.4.zip) </br>
 
 </br>
 </br>
 
 ## 使用方法
 
-**1、如何在Xcode(-beta) 13+联调iOS 15.2的设备？**</br> 
+**1、如何在Xcode(-beta) 13+联调iOS 15.4的设备？**</br> 
 
-**[2、下载iOS 15.2的支持文件](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.2.zip)** </br>
+**[2、下载iOS 15.4的支持文件](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.4.zip)** </br>
 
 **3、解压缩**</br>
 
