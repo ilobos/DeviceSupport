@@ -1,23 +1,23 @@
 # iOS DeviceSupport（简体中文）
 iOS真机调试支持文件 (iOS9 - iOS16), 为了解决这个问题：[Your Xcode version may be too old for your iOS version]。
-支持 2022.06.07（GMT+8）16.0 Developer Beta。
+支持 2022.09.15（GMT+8）16.1 Developer Beta。
 
 ## 最近5次更新 </br>
 
+**iOS 16.1** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-16/16.1.zip) </br>
 **iOS 16.0** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-16/16.0.zip) </br>
 **iOS 15.5** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.5.zip) </br>
 **iOS 15.4** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.4.zip) </br>
 **iOS 15.3** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.3.zip) </br>
-**iOS 15.2** - [下载](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-15/15.2.zip) </br>
 
 </br>
 </br>
 
 ## 使用方法
 
-**1、如何在Xcode(-beta) 13+联调iOS 16.0的设备？**</br> 
+**1、如何在Xcode(-beta) 13+联调iOS 16.1的设备？**</br> 
 
-**[2、下载iOS 16.0的支持文件](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-16/16.0.zip)** </br>
+**[2、下载iOS 16.1的支持文件](https://github.com/ilobos/DeviceSupport/blob/master/DeviceSupport/iOS-16/16.1.zip)** </br>
 
 **3、解压缩**</br>
 
